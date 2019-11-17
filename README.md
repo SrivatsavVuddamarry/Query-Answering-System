@@ -1,4 +1,4 @@
-# Query-Answering-System
+# Query-Answering-System     https://isadproject.wixsite.com/respondre
 
 **Respondre** is a platform where we help users get answers to their queries by professionals and experts who have specialized in their respective fields. The present-day competitive world has been forcing people to have overhead knowledge in all aspects. People may not find an answer to their questions because of the lack of right resources. A person can have many queries regarding different fields. There are other sources from where one can get his/her answers but the problem associated with it are lack of satisfaction and deviating answers. Users can expect 80% more accurate responses to their questions. The professionals (who are not so famous in their field) on the other hand will get recognition, incentives and will also have his own brand enhancement using this platform.
 
